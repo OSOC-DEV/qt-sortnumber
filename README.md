@@ -1,4 +1,11 @@
+Master build
+
 ![Build Badge](https://ci.appveyor.com/api/projects/status/acmhx0td906vvjrh?svg=true)
+
+CI build
+
+![Build Badge](https://ci.appveyor.com/api/projects/status/hjm1r72apat426ik?svg=true)
+
 # Introduction 
 This is a simple QT project based around the bubble sort algorithm.
 
