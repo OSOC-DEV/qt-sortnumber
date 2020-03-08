@@ -1,5 +1,5 @@
 # Introduction 
-This is a simple qt project based around the bubble sort algorithm.
+This is a simple QT project based around the bubble sort algorithm.
 
 # Getting Started
 
