@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+gitpassword.txt
+.vs/
+debug/
+release/
